@@ -7,6 +7,6 @@ It allows users to add items or modify elements in the list in efficiency and in
 •Removes items by index or value.
 •supports permanent listing of user items.
 
-#Installation.
+# Installation.
 The react project is worked out on a vs code page.
 Its displayed in the chrome page by a link .
